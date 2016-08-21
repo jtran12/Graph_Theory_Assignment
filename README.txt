@@ -1,3 +1,5 @@
+First Year assignment with basic graph theory components.
+
 QUERIES
 
 All emails provided are located in example.timf
